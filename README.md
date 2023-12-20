@@ -30,10 +30,10 @@ These can be separated as follows:
 - Binary search trees (C).
 - Dictionaries and hash tables (C).
 
-#Games:
+##Games:
 - Pokemon battle card game (C).
 - Kitchen in trouble: Reuben and Stitch (C).
 
 
-#Programs for specific problems:
+###Programs for specific problems:
 - Stock shortage calculator (Python).
