@@ -1,14 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy Felipe Santino Ascencio 👋
+<h1 align="center">Hi, I'm Felipe Santino Ascencio 👋
 </div>
 
-## Sobre mi
+## About me
 
-- Estudiante de Ingeniería en Informática en la UBA.
-- Tengo 20 años.
-- Soy técnico electromecánico.
-- Resido en Buenos Aires, Argentina.
-- Soy Runner.
+- I am studying Computer Engineering at the UBA.
+- I am 20 years old.
+- I am an electromechanical technician.
+- I currently live in Buenos Aires, Argentina.
+- I am a runner.
 
 ```c
 #include <stdio.h>
@@ -18,3 +18,6 @@ int main (){
     return 0;
 }
 ```
+I have many projects, currently in the C and Python programming languages.
+
+These can be separated as follows:
