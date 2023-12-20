@@ -4,11 +4,11 @@
 
 ## About me
 
-- I am studying Computer Engineering at the UBA.
-- I am 20 years old.
-- I am an electromechanical technician.
+- I'm studying Computer Engineering at the UBA.
+- I'm 20 years old.
+- I'm an electromechanical technician.
 - I currently live in Buenos Aires, Argentina.
-- I am a runner.
+- I'm a runner.
 
 ```c
 #include <stdio.h>
