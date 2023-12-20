@@ -21,3 +21,15 @@ int main (){
 I have many projects, currently in the C and Python programming languages.
 
 These can be separated as follows:
+Implementation of abstract data types (ADTs):
+- Stacks, lists and queues (C).
+- Binary search trees (C).
+- Dictionaries and hash tables (C).
+
+Games:
+- Pokemon battle card game (C).
+- Kitchen in trouble: Reuben and Stitch (C).
+
+
+Programs for specific problems:
+- Stock shortage calculator (Python).
