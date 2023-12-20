@@ -11,7 +11,7 @@
 - Soy Runner.
 
 <div align="center">
-<img width="70%" src="[https://i.imgur.com/weNbhGZ.png](https://i.ibb.co/gVnWW6B/projects.jpg)">
+<img width="70%" src="img/projects.jpg">
 </div>
 
 <!--
