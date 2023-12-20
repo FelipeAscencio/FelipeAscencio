@@ -10,6 +10,11 @@
 - Resido en Buenos Aires, Argentina.
 - Soy Runner.
 
-<div align="center">
-<img width="35%" src="img/Projects.jpg">
-</div>
+```c
+#include <stdio.h>
+
+int main (){
+    printf("Projects");
+    return 0;
+}
+```
