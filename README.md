@@ -11,5 +11,5 @@
 - Soy Runner.
 
 <div align="center">
-<img width="10%" src="img/projects.jpg">
+<img width="25%" src="img/projects.jpg">
 </div>
