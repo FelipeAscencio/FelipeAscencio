@@ -36,4 +36,5 @@ These can be separated as follows:
 
 
 ### Programs for specific problems:
-- Stock shortage calculator (Python).
+- Restaurant reservation list (Python).
+- Developing: Stock shortage calculator (Python).
