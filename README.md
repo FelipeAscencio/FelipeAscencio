@@ -32,9 +32,7 @@ These can be separated as follows:
 
 ### Games:
 - Pokemon battle card game (C).
-- Kitchen in trouble: Reuben and Stitch (C).
-
 
 ### Programs for specific problems:
-- Restaurant reservation list (Python).
+- Developing: Restaurant reservation list (Python).
 - Developing: Stock shortage calculator (Python).
