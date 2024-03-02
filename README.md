@@ -5,7 +5,7 @@
 ## About me
 
 - I'm studying Computer Engineering at the UBA.
-- I'm 20 years old.
+- I'm 21 years old.
 - I'm an electromechanical technician.
 - I currently live in Buenos Aires, Argentina.
 - I'm a runner.
