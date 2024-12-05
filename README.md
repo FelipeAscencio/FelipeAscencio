@@ -34,6 +34,10 @@ These can be separated as follows:
 - Pokemon battle card game (C) - Individual project.
 - Robots (Java) with graphical interface (Java FX) - Group project.
 - The fox and the geese (Assembly Intel x86) - Group project.
+- DuckGame (C++) - Group project.
+
+### APIs:
+- Sales Platform API (JAVA) - Group project.
 
 ### Solving problems with several design techniques:
 - Problem solving with "Greedy" design technique (Python) - Group project.
