@@ -4,7 +4,7 @@
 
 ## About me
 
-- I'm studying Informatics Engineering at the UBA.
+- I'm studying Informatics Engineering at the UBA (Universidad de Buenos Aires).
 - I'm 21 years old.
 - I'm an electromechanical technician.
 - I currently live in Buenos Aires, Argentina.
@@ -21,7 +21,9 @@ int main (){
 }
 ```
 
-I have quite a few projects, currently in ​​Assembly, C, Clojure, Java and Python programming languages.
+I have quite a few projects, currently in ​​Assembly, C, C++, Clojure, Java and Python programming languages.
+
+I also developed web pages with Wordpress, Css, Html and Javascript technologies.
 
 These can be separated as follows:
 
@@ -34,7 +36,7 @@ These can be separated as follows:
 - Pokemon battle card game (C) - Individual project.
 - Robots (Java) with graphical interface (Java FX) - Group project.
 - The fox and the geese (Assembly Intel x86) - Group project.
-- DuckGame-Remake (C++) - Group project.
+- DuckGame-Remake (C++) with graphical interface (STL) - Group project.
 
 ### APIs:
 - Sales Platform API (JAVA) - Group project.
@@ -45,4 +47,8 @@ These can be separated as follows:
 - Problem solving with "Backtracking" and "Linear Programming" design techniques (Python) - Group project.
 
 ### Functional programming:
-- L-systems and digital imaging (Clojure) - Group Project.
+- L-systems and digital imaging (Clojure) - Group project.
+
+### Web pages:
+- Nuestra voz es la voz de la historia (Wordpress) - Individual project.
+- In progress... (Css, Html and Javascript) - Group project.
