@@ -23,7 +23,7 @@ int main (){
 
 I have quite a few projects, currently in ​​Assembly, C, C++, Clojure, Java and Python programming languages.
 
-I also developed web pages with Wordpress, Css, Html and Javascript technologies.
+I also developed web pages with Css, Html, Javascript and WordPress technologies.
 
 These can be separated as follows:
 
@@ -50,5 +50,4 @@ These can be separated as follows:
 - L-systems and digital imaging (Clojure) - Group project.
 
 ### Web pages:
-- Nuestra voz es la voz de la historia (Wordpress) - Individual project.
-- In progress... (Css, Html and Javascript) - Group project.
+- Nuestra voz es la voz de la historia (Wordpress, Css, Html and Javascript) - Individual project.
