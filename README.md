@@ -5,6 +5,7 @@
 ## About me
 
 - I'm studying Informatics Engineering at the UBA (Universidad de Buenos Aires).
+- I'm 'Fixed Access Telecoms Solutions Intern' at Nokia.
 - I'm 22 years old.
 - I'm an electromechanical technician.
 - I currently live in Buenos Aires, Argentina.
