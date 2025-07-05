@@ -22,7 +22,7 @@ int main (){
 }
 ```
 
-I have quite a few projects, currently in ​​Assembly, C, C++, Clojure, Java and Python programming languages.
+I have quite a few projects, currently in ​​Assembly, C, C++, Clojure, Java, Python and Rust programming languages.
 
 I also developed web pages with Css, Html, Javascript and WordPress technologies.
 
@@ -49,6 +49,14 @@ These can be separated as follows:
 
 ### Functional programming:
 - L-systems and digital imaging (Clojure) - Group project.
+
+### Networks (Implementation of protocols and use of tools):
+- Client-server file transfer system (Python) - Group project.
+- Implementing a firewall and building variable topologies (Python) - Group project.
+
+### Distributed Systems and Concurrency:
+- Steam review analysis and reporting (Rust) - Individual project.
+- PedidosRust, a distributed application system that models a food ordering application (Rust) - Group project.
 
 ### Web pages:
 - Nuestra voz es la voz de la historia (Wordpress, Css, Html and Javascript) - Individual project.
