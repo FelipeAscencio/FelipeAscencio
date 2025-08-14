@@ -50,6 +50,9 @@ These can be separated as follows:
 ### Functional programming:
 - L-systems and digital imaging (Clojure) - Group project.
 
+### Operating systems
+- Features Operating Systems (C & Assembly x86) - Group project.
+
 ### Networks (Implementation of protocols and use of tools):
 - Client-server file transfer system (Python) - Group project.
 - Implementing a firewall and building variable topologies (Python) - Group project.
