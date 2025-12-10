@@ -30,49 +30,61 @@ In addition, I have experience working with various SQL and NoSQL databases, alo
 
 These can be separated as follows:
 
-### Implementation of abstract data types (ADTs):
-
-- Stacks, lists and queues (C) - Individual project.
-- Binary search trees (C) - Individual project.
-- Dictionaries and hash tables (C) - Individual project.
-
-### Games:
-
-- Pokemon battle card game (C) - Individual project.
-- Robots (Java) with graphical interface (Java FX) - Group project.
-- The fox and the geese (Assembly Intel x86) - Group project.
-- DuckGame - Remake (C++) with graphical interface (STL) - Group project.
-
 ### APIs:
 
+- Melodia content API (Python) - Group project.
+- Melodia notification API (Python) - Group project.
+- Melodia player API (Python) - Group project.
+- Melodia user API (Go) - Group project.
+- Plan & Go (Python) - Group project.
 - Sales Platform API (JAVA) - Group project.
 
-### Solving problems with several design techniques:
+### APPs:
 
-- Problem solving with "Greedy" design technique (Python) - Group project.
-- Problem solving with "Dynamic programming" design technique (Python) - Group project.
-- Problem solving with "Backtracking" and "Linear Programming" design techniques (Python) - Group project.
+- App mobile Melodia (React Native) - Group project.
+
+### Distributed Systems and Concurrency:
+
+- CoffeeShopAnalysis (Python) - Group project.
+- PedidosRust (Rust) - Group project.
+- Steam review analysis and reporting (Rust) - Individual project.
 
 ### Functional programming:
 
 - L-systems and digital imaging (Clojure) - Group project.
 
-### Operating systems:
+### Games:
 
-- Features Operating Systems (C & Assembly x86) - Group project.
+- DuckGame - Remake (C++) with graphical interface (STL) - Group project.
+- Pokemon battle card game (C) - Individual project.
+- Robots (Java) with graphical interface (Java FX) - Group project.
+- The fox and the geese (Assembly Intel x86) - Group project.
+
+### Implementation of abstract data types (ADTs):
+
+- Binary search trees (C) - Individual project.
+- Dictionaries and hash tables (C) - Individual project.
+- Stacks, lists and queues (C) - Individual project.
 
 ### Networks (Implementation of protocols and use of tools):
 
 - Client-server file transfer system (Python) - Group project.
-- Implementing a firewall and building variable topologies (Python) - Group project.
+- Firewall with variable topology (Python) - Group project.
 
-### Distributed Systems and Concurrency:
+### Operating systems:
 
-- Steam review analysis and reporting (Rust) - Individual project.
-- PedidosRust, a distributed application system that models a food ordering application (Rust) - Group project.
+- Features Operating Systems (C & Assembly x86) - Group project.
+
+### Solving problems with several design techniques:
+
+- Problem solving with "Backtracking" and "Linear Programming" design techniques (Python) - Group project.
+- Problem solving with "Dynamic programming" design technique (Python) - Group project.
+- Problem solving with "Greedy" design technique (Python) - Group project.
 
 ### Web pages:
 
+- Melodia back office (React) - Group Project.
 - Nuestra voz es la voz de la historia V1 (Wordpress) - Individual project.
 - Nuestra voz es la voz de la historia V2 (Css, Html and Javascript) - Individual project.
+- Plan & Go (React) - Group project.
 - Sales Platform API (React) - Group project.
