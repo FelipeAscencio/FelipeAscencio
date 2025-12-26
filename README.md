@@ -80,10 +80,13 @@ int main (){
 ## Featured Projects
 
 - **Melodia (Spotify Reversal + Microservices)** — APIs <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> & <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> + Mobile <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+
   [Organization](https://github.com/fiuba-ingsoft2-grupo8)
 - **CoffeeShopAnalysis (Distributed system)** — <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
   [Organization](https://github.com/fiuba-distribuidos-grupo9)
 - **Plan & Go (TripAdvisor reversal)** — API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> + Web <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
   [Organization](https://github.com/fiuba-gestion-grupo1)
 
 ## Projects by category
