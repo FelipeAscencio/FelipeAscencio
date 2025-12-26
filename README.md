@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/SDL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-## Modeling / Documentation
+### Modeling / Documentation
 
 <p>
   <img src="https://img.shields.io/badge/UML-00599C?style=for-the-badge&logo=uml&logoColor=white" />
