@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 ## About me
 
 - 🎓 Informatics Engineering student @ **UBA**
@@ -27,8 +25,6 @@
 - 🧠 Interested in **systems**, **concurrency**, **distributed systems**, and **backend**
 - 🛠️ Strong base in **algorithms & data structures**
 - 🏃 Runner — discipline & consistency mindset
-
----
 
 ## Tech Stack
 
