@@ -36,9 +36,11 @@
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -46,8 +48,8 @@
 
 ### Web / Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -81,12 +83,12 @@ int main (){
 
 ## Featured Projects
 
-- **Melodia (Spotify Reversal + Microservices)** — APIs (Python/Go) + Mobile (React Native)  
-  Organization: https://github.com/fiuba-ingsoft2-grupo8
-- **CoffeeShopAnalysis (Distributed system)** — Python
-  Organization: https://github.com/fiuba-distribuidos-grupo9
-- **Plan & Go (TripAdvisor reversal)** — Python + Web (React)
-  Organization: https://github.com/fiuba-gestion-grupo1
+- **Melodia (Spotify Reversal + Microservices)** — APIs <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> & <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> + Mobile <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  [Organization](https://github.com/fiuba-ingsoft2-grupo8)
+- **CoffeeShopAnalysis (Distributed system)** — <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  [Organization](https://github.com/fiuba-distribuidos-grupo9)
+- **Plan & Go (TripAdvisor reversal)** — API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> + Web <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  [Organization](https://github.com/fiuba-gestion-grupo1)
 
 ## Projects by category
 
@@ -95,67 +97,68 @@ int main (){
 
 ### APIs:
 
-- Melodia content API (Python) - Group project.
-- Melodia notification API (Python) - Group project.
-- Melodia player API (Python) - Group project.
-- Melodia user API (Go) - Group project.
-- Plan & Go (Python) - Group project.
-- Sales Platform API (JAVA) - Group project.
+- Melodia content API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Melodia notification API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Melodia player API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Melodia user API <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project.
+- Plan & Go <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Sales Platform API <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project.
 
 ### APPs:
 
-- App mobile Melodia (React Native) - Group project.
+- App mobile Melodia <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
 
 ### Distributed Systems and Concurrency:
 
-- CoffeeShopAnalysis (Python) - Group project.
-- PedidosRust (Rust) - Group project.
-- Steam review analysis and reporting (Rust) - Individual project.
+- CoffeeShopAnalysis <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- PedidosRust <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Group project.
+- Steam review analysis and reporting <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Individual project.
 
 ### Functional programming:
 
-- L-systems and digital imaging (Clojure) - Group project.
+- L-systems and digital imaging <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" /> - Group project.
 
 ### Games:
 
-- DuckGame - Remake (C++) with graphical interface (STL) - Group project.
-- Pokemon battle card game (C) - Individual project.
-- Robots (Java) with graphical interface (Java FX) - Group project.
-- The fox and the geese (Assembly Intel x86) - Group project.
+- DuckGame - Remake <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> with graphical interface <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> - Group project.
+- Pokemon battle card game <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
+- Robots <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> with graphical interface <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project.
+- The fox and the geese <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=gnubash&logoColor=white" /> - Group project.
 
 ### Implementation of abstract data types (ADTs):
 
-- Binary search trees (C) - Individual project.
-- Dictionaries and hash tables (C) - Individual project.
-- Stacks, lists and queues (C) - Individual project.
+- Binary search trees <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
+- Dictionaries and hash tables <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
+- Stacks, lists and queues <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
 
 ### Networks:
 
-- Client-server file transfer system (Python) - Group project.
-- Firewall with variable topology (Python) - Group project.
+- Client-server file transfer system <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Firewall with variable topology <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
 
 ### Operating systems:
 
-- Features Operating Systems (C & Assembly x86) - Group project.
+- Features Operating Systems <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> & <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=gnubash&logoColor=white" /> - Group project.
 
 ### Solving problems with several design techniques:
 
-- Problem solving with "Backtracking" and "Linear Programming" design techniques (Python) - Group project.
-- Problem solving with "Dynamic programming" design technique (Python) - Group project.
-- Problem solving with "Greedy" design technique (Python) - Group project.
+- Problem solving with "Backtracking" and "Linear Programming" design techniques <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Problem solving with "Dynamic programming" design technique <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Problem solving with "Greedy" design technique <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
 
 ### Web pages:
 
-- Melodia back office (React) - Group Project.
-- Nuestra voz es la voz de la historia V1 (Wordpress) - Individual project.
-- Nuestra voz es la voz de la historia V2 (Css, Html and Javascript) - Individual project.
-- Plan & Go (React) - Group project.
-- Sales Platform API (React) - Group project.
+- Melodia back office <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group Project.
+- Nuestra voz es la voz de la historia V1 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> - Individual project.
+- Nuestra voz es la voz de la historia V2 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> - Individual project.
+- Plan & Go <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
+- Sales Platform API <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
 
 </details>
 
 ---
 
 ## Contact
+
 📩 **Email:** felipesantinoascencio@gmail.com 
 💼 **LinkedIn:** https://www.linkedin.com/in/felipe-santino-ascencio/
