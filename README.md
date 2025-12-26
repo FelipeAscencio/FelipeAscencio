@@ -18,14 +18,6 @@
 
 </div>
 
-## About me
-
-- 🎓 Informatics Engineering student @ **UBA**.
-- 💼 **Nokia** — Fixed Access Telecoms Solutions Intern.
-- 🧠 Interested in **systems**, **concurrency**, **distributed systems**, **backend**, and **frontend**.
-- 🛠️ Strong base in **algorithms & data structures**.
-- 🏃 Runner — Discipline & consistency mindset.
-
 ## Tech Stack
 
 ### Languages
