@@ -2,7 +2,7 @@
 
 # Hi, I'm Felipe Santino Ascencio 👋
 
-**Informatics Engineering @ UBA** · **Fixed Access Telecoms Solutions Intern @ Nokia**  
+**Computing Engineering Student & Teaching Assistant @ UBA** · **Fixed Access Telecoms Solutions Intern @ Nokia**  
 📍 Buenos Aires, Argentina · 🏃 Runner · ⚡ Electromechanical technician
 
 <a href="mailto:felipesantinoascencio@gmail.com">
@@ -18,6 +18,14 @@
 </div>
 
 ## Tech Stack
+
+### Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
 ### Databases
 
@@ -184,3 +192,5 @@ int main (){
 📩 **Email:** felipesantinoascencio@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/felipe-santino-ascencio/
+
+📄 **CV:** https://drive.google.com/file/d/1PsBcsEAzmigpQimm8CXDcnuwJLxKYU1C/view?usp=drive_link
