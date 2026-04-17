@@ -184,13 +184,3 @@ int main (){
 - Sales Platform API <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
 
 </details>
-
----
-
-## Contact
-
-📩 **Email:** [felipesantinoascencio@gmail.com](mailto:felipesantinoascencio@gmail.com)
-
-💼 **LinkedIn:** [Felipe Santino Ascencio](https://www.linkedin.com/in/felipe-santino-ascencio/)
-
-📄 **CV:** [Curriculum Vitae](https://drive.google.com/file/d/1PsBcsEAzmigpQimm8CXDcnuwJLxKYU1C/view?usp=drive_link)
