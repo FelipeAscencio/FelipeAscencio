@@ -189,8 +189,8 @@ int main (){
 
 ## Contact
 
-📩 **Email:** felipesantinoascencio@gmail.com
+📩 **Email:** [felipesantinoascencio@gmail.com](mailto:felipesantinoascencio@gmail.com)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/felipe-santino-ascencio/
+💼 **LinkedIn:** [Felipe Santino Ascencio](https://www.linkedin.com/in/felipe-santino-ascencio/)
 
-📄 **CV:** https://drive.google.com/file/d/1PsBcsEAzmigpQimm8CXDcnuwJLxKYU1C/view?usp=drive_link
+📄 **CV:** [Curriculum Vitae](https://drive.google.com/file/d/1PsBcsEAzmigpQimm8CXDcnuwJLxKYU1C/view?usp=drive_link)
