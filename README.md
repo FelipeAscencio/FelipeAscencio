@@ -12,7 +12,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://drive.google.com/file/d/1PsBcsEAzmigpQimm8CXDcnuwJLxKYU1C/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/CV%20(EN)-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1EgNtp0XWSQTCwXHf5qJqC047vyQm5HjJ/view?usp=sharing">
+  <img src="https://img.shields.io/badge/CV%20(ES)-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
 </div>
@@ -179,6 +182,7 @@ int main (){
 
 ### Web pages:
 
+- angLOXg <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" /> - Group project.
 - Melodia back office <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group Project.
 - Nuestra voz es la voz de la historia V1 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> - Individual project.
 - Nuestra voz es la voz de la historia V2 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> - Individual project.
