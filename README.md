@@ -164,6 +164,14 @@ int main (){
 - PedidosRust <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Group project.
 - Steam review analysis and reporting <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Individual project.
 
+### Documentation:
+
+- Coffee Shop Analysis - Documentacion <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project.
+- SocioUnido - Bitácora <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project.
+- SocioUnido - Documentacion <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project.
+- SocioUnido - Ideas de producto <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project.
+- SocioUnido - Scrum <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project.
+
 ### Functional programming:
 
 - L-systems and digital imaging <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" /> - Group project.
