@@ -139,82 +139,82 @@ int main (){
 
 ### APIs:
 
-- Melodia - Content API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- Melodia - Notification API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- Melodia - Player API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- Melodia - User API <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project.
-- Plan & Go <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- Sales Platform API <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project.
-- SocioUnido - Access Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- SocioUnido - Analytics Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- SocioUnido - Authentication Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- SocioUnido - Club Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- SocioUnido - Conversational Bot Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- SocioUnido - Gateway <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project.
-- SocioUnido - HealthChecker <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> - Group project.
-- SocioUnido - Payments Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Melodia - Content API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Melodia - Notification API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Melodia - Player API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Melodia - User API <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Plan & Go <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Sales Platform API <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Sales_Platform_API)
+- SocioUnido - Access Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Analytics Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Authentication Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Club Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Conversational Bot Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Gateway <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - HealthChecker <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Payments Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
 
 ### APPs:
 
-- Melodia - App mobile <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
-- SocioUnido - Access Control <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
-- SocioUnido - Application <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
+- Melodia - App mobile <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Access Control <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Application <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
 
 ### Distributed Systems and Concurrency:
 
-- CoffeeShopAnalysis <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- PedidosRust <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Group project.
-- Steam review analysis and reporting <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Individual project.
+- CoffeeShopAnalysis <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- PedidosRust <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/PedidosRust)
+- Steam review analysis and reporting <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Steam_Review_Analytics)
 
 ### Documentation:
 
-- Coffee Shop Analysis - Documentation <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project.
-- SocioUnido - Documentation <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project.
-- SocioUnido - Logbook <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project.
-- SocioUnido - Product Ideas <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project.
-- SocioUnido - Scrum <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project.
+- Coffee Shop Analysis - Documentation <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Documentation <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Logbook <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Product Ideas <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Scrum <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
 
 ### Functional programming:
 
-- L-systems and digital imaging <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" /> - Group project.
+- L-systems and digital imaging <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/L_Systems_Functional)
 
 ### Games:
 
-- DuckGame - Remake <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> with graphical interface <img src="https://img.shields.io/badge/SDL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> - Group project.
-- Pokemon battle card game <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
-- Robots <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> with graphical interface <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project.
-- The fox and the geese <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=gnubash&logoColor=white" /> - Group project.
+- DuckGame - Remake <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> with graphical interface <img src="https://img.shields.io/badge/SDL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/DuckGame-Remake)
+- Pokemon battle card game <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Pokemon_Card_Game_C)
+- Robots <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> with graphical interface <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Robots)
+- The fox and the geese <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=gnubash&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Fox_Geese)
 
 ### Implementation of abstract data types (ADTs):
 
-- Binary search trees <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
-- Dictionaries and hash tables <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
-- Stacks, lists and queues <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project.
+- Binary search trees <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/ADT_BST_C)
+- Dictionaries and hash tables <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/ADT_HASH_C)
+- Stacks, lists and queues <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/ADT_SQL_C)
 
 ### Networks:
 
-- Client-server file transfer system <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- Firewall with variable topology <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Client-server file transfer system <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/File_Transfer)
+- Firewall with variable topology <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Software_Defined_Networks)
 
 ### Operating systems:
 
-- Features Operating Systems <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> & <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=gnubash&logoColor=white" /> - Group project.
+- Features Operating Systems <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> & <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=gnubash&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Features_Operating_Systems)
 
 ### Solving problems with several design techniques:
 
-- Problem solving with "Backtracking" and "Linear Programming" design techniques <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- Problem solving with "Dynamic programming" design technique <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
-- Problem solving with "Greedy" design technique <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project.
+- Problem solving with "Backtracking" and "Linear Programming" design techniques <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Backtracking_LP_Resolution)
+- Problem solving with "Dynamic programming" design technique <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Dynamic_Programming_Resolution)
+- Problem solving with "Greedy" design technique <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Greedy_Resolution)
 
 ### Web pages:
 
-- angLOXg <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" /> - Group project.
-- Melodia - Back office <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group Project.
-- Nuestra voz es la voz de la historia (V1) <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> - Individual project.
-- Nuestra voz es la voz de la historia (V2) <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> - Individual project.
-- Plan & Go <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
-- Sales Platform API <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
-- SocioUnido - Landing page <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
-- SocioUnido - Web Platform <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project.
+- angLOXg <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/angLOXg)
+- Melodia - Back office <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group Project. [🔗 Link](REPOSITORY_URL)
+- Nuestra voz es la voz de la historia (V1) <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Nuestra_voz_es_la_voz_de_la_historia/tree/wordpress)
+- Nuestra voz es la voz de la historia (V2) <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Nuestra_voz_es_la_voz_de_la_historia/tree/html-css-js)
+- Plan & Go <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Sales Platform API <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Landing page <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Web Platform <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
 
 </details>
