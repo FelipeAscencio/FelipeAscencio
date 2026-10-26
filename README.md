@@ -139,11 +139,11 @@ int main (){
 
 ### APIs:
 
-- Melodia - Content API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- Melodia - Notification API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- Melodia - Player API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- Melodia - User API <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- Plan & Go <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Melodia - Content API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/content-api)
+- Melodia - Notification API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/notifications-api)
+- Melodia - Player API <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/player-api)
+- Melodia - User API <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/user-api)
+- Plan & Go <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/fiuba-gestion-grupo1/Plan-Go)
 - Sales Platform API <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Sales_Platform_API)
 - SocioUnido - Access Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
 - SocioUnido - Analytics Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
@@ -156,19 +156,19 @@ int main (){
 
 ### APPs:
 
-- Melodia - App mobile <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Melodia - App mobile <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/app-mobile)
 - SocioUnido - Access Control <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
 - SocioUnido - Application <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
 
 ### Distributed Systems and Concurrency:
 
-- CoffeeShopAnalysis <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- CoffeeShopAnalysis <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/fiuba-distribuidos-grupo9/CoffeeShopAnalysis)
 - PedidosRust <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/PedidosRust)
 - Steam review analysis and reporting <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Steam_Review_Analytics)
 
 ### Documentation:
 
-- Coffee Shop Analysis - Documentation <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Coffee Shop Analysis - Documentation <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](https://github.com/fiuba-distribuidos-grupo9/Documentacion)
 - SocioUnido - Documentation <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
 - SocioUnido - Logbook <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
 - SocioUnido - Product Ideas <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
@@ -209,10 +209,10 @@ int main (){
 ### Web pages:
 
 - angLOXg <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/angLOXg)
-- Melodia - Back office <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group Project. [🔗 Link](REPOSITORY_URL)
+- Melodia - Back office <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group Project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/backoffice)
 - Nuestra voz es la voz de la historia (V1) <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Nuestra_voz_es_la_voz_de_la_historia/tree/wordpress)
 - Nuestra voz es la voz de la historia (V2) <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Nuestra_voz_es_la_voz_de_la_historia/tree/html-css-js)
-- Plan & Go <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- Plan & Go <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/fiuba-gestion-grupo1/Plan-Go)
 - Sales Platform API <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Sales_Platform_API)
 - SocioUnido - Landing page <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
 - SocioUnido - Web Platform <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
