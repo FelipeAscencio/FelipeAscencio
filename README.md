@@ -11,10 +11,10 @@
 <a href="https://www.linkedin.com/in/felipe-santino-ascencio/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1PsBcsEAzmigpQimm8CXDcnuwJLxKYU1C/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1d-ttNhh1v2t0tffSR3qejd83XKcKR1Ez/view?usp=drive_link">
   <img src="https://img.shields.io/badge/CV%20(EN)-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/1EgNtp0XWSQTCwXHf5qJqC047vyQm5HjJ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1j67AW-K22UY6cvQNNHoFEdx4Uc-Xa9FS/view?usp=drive_link">
   <img src="https://img.shields.io/badge/CV%20(ES)-111111?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
