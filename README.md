@@ -145,20 +145,20 @@ int main (){
 - Melodia - User API <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/user-api)
 - Plan & Go <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/fiuba-gestion-grupo1/Plan-Go)
 - Sales Platform API <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Sales_Platform_API)
-- SocioUnido - Access Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Analytics Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Authentication Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Club Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Conversational Bot Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Gateway <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - HealthChecker <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Payments Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Access Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/microservicio-acceso-doc)
+- SocioUnido - Analytics Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/microservicio-analiticas-doc)
+- SocioUnido - Authentication Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/microservicio-autenticacion-doc)
+- SocioUnido - Club Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/microservicio-club-doc)
+- SocioUnido - Conversational Bot Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/microservicio-bot-conversacional-doc)
+- SocioUnido - Gateway <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/gateway-doc)
+- SocioUnido - HealthChecker <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/healthchecker)
+- SocioUnido - Payments Microservice <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/microservicio-pagos-doc)
 
 ### APPs:
 
 - Melodia - App mobile <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/fiuba-ingsoft2-grupo8/app-mobile)
-- SocioUnido - Access Control <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Application <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Access Control <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/control-de-accesos)
+- SocioUnido - Application <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/aplicacion)
 
 ### Distributed Systems and Concurrency:
 
@@ -169,10 +169,10 @@ int main (){
 ### Documentation:
 
 - Coffee Shop Analysis - Documentation <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](https://github.com/fiuba-distribuidos-grupo9/Documentacion)
-- SocioUnido - Documentation <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Logbook <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Product Ideas <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Scrum <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Documentation <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/documentacion)
+- SocioUnido - Logbook <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/bitacora)
+- SocioUnido - Product Ideas <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/ideas-productos)
+- SocioUnido - Scrum <img src="https://img.shields.io/badge/JustTheDocs-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/scrum)
 
 ### Functional programming:
 
@@ -214,7 +214,7 @@ int main (){
 - Nuestra voz es la voz de la historia (V2) <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> - Individual project. [🔗 Link](https://github.com/FelipeAscencio/Nuestra_voz_es_la_voz_de_la_historia/tree/html-css-js)
 - Plan & Go <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/fiuba-gestion-grupo1/Plan-Go)
 - Sales Platform API <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/FelipeAscencio/Sales_Platform_API)
-- SocioUnido - Landing page <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
-- SocioUnido - Web Platform <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](REPOSITORY_URL)
+- SocioUnido - Landing page <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/landing-page)
+- SocioUnido - Web Platform <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> - Group project. [🔗 Link](https://github.com/TrabajoProfesional-AGGZ/plataforma-web)
 
 </details>
